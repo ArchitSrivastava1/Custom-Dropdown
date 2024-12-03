@@ -5,4 +5,4 @@ A Select Menu is a combination of various options where the user has to choose w
 Let’s have a quick look at the given image of [Custom Dropdown Select Menu] on the webpage. As you on the image, at the top side there is a section with text select media and at the bottom section, there are some lists of social media icons with names. Actually, at first, the section of the social media list will be hidden and when we click on the upper select media button then that social media list will appear. When we click on the social media list then its name will appear on the top bottom.
 
 
-here's the url : https://github.com/ArchitSrivastava1/Custom-Dropdown/tree/main
+https://github.com/ArchitSrivastava1/Custom-Dropdown/edit/main/README.md
